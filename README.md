@@ -2,6 +2,7 @@
 ![](images/thumb.jpg)
 
 ## Getting Started
+YOUTUBE LINK
 
 Get the apk for this project at this [link](https://flutter.io/docs/get-started/codelab)
 
